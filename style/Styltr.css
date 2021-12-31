@@ -1,0 +1,50 @@
+body{
+    border-top: 3px double thistle;
+    border-right: 3px double thistle;
+    border-bottom: 3px double thistle;
+    border-left: 3px double  thistle;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    background-image: url(https://cdn.dia31.com/embed/dc49f87e734451ac51ac6eb7504625ea41608656533/4-tips-para-afrontar-la-subida-del-dolar.jpg?imagick=1&size=1250);
+    
+  
+}
+
+h1{
+    font-style: sans-serif;
+    font-size: 30x;
+    color: black;
+    text-align: center;
+}
+
+form{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 30%;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+input{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+
+button{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 20%;
+    border-radius: 10px;
+    background-color: teal;
+}
